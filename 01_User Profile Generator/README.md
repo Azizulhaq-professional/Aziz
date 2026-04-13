@@ -14,7 +14,7 @@ This is a beginner-friendly Python project that collects user information and di
 
 ## ▶️ How to Run
 1. Clone the repository:
-   git clone https://github.com/your-username/user-profile-generator.git
+   https://github.com/Azizulhaq-professional/Aziz/tree/main/01_User%20Profile%20Generator
 
 2. Navigate to folder:
    cd user-profile-generator
