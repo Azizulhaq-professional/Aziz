@@ -39,7 +39,7 @@ print(f"Average: {average}, Passed: {passed}, Failed: {failed}")
 
 Expected Output:
 Average: 72.5, Passed: 3, Failed: 1
-
+```
 ## ⚙️ How to Run
 1. Clone this repository.
 2. Open 02_Lists_&_Loops.ipynb in Google Colab or Jupyter Notebook.
