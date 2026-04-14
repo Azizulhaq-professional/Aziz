@@ -1,24 +1,27 @@
-# Python Lists & Loops – Student Marks Analyzer
+# 🐍 Python Lists & Loops – Student Marks Analyzer
 
-A hands-on Python notebook covering core programming concepts with a real-world mini project.
+A hands‑on Python notebook covering core programming concepts with a real‑world mini project.
 
-## 📌 Concepts Covered
+---
 
-| Concept | Description |
-|---------|-------------|
-| Lists | Store multiple values in one variable |
-| `for` loop | Iterate through sequences |
-| `while` loop | Repeat until condition changes |
-| Do-while (Python style) | Simulate with `while True` + `break` |
-| `if`/`elif`/`else` | Conditional decision making |
-| Nested `if` | Decision inside a decision |
-| Nested loops | Loop inside a loop (matrices/patterns) |
+## 📘 Concepts Covered
 
-## 🎓 Mini Project: Student Marks Analyzer
+| Concept       | Description                                |
+|---------------|--------------------------------------------|
+| Lists         | Store multiple values in one variable       |
+| For loop      | Iterate through sequences                   |
+| While loop    | Repeat until condition changes              |
+| Do‑while      | Simulate with `while True` + `break`        |
+| If / Elif / Else | Conditional decision making             |
+| Nested if     | Decision inside a decision                  |
+| Nested loops  | Loop inside a loop (matrices/patterns)      |
+
+---
+
+## 🎯 Mini Project: Student Marks Analyzer
 
 ```python
-marks = [55, 70, 90, 40, 85]
-
+marks = [95, 70, 40, 85]
 total = 0
 passed = 0
 failed = 0
@@ -34,29 +37,30 @@ average = total / len(marks)
 
 print(f"Average: {average}, Passed: {passed}, Failed: {failed}")
 
-Output: Average: 68.0, Passed: 4, Failed: 1
+Expected Output:
+Average: 72.5, Passed: 3, Failed: 1
 
- Run the Notebook
-Open the .ipynb file in Google Colab or Jupyter Notebook
+⚙️ How to Run
+1. Clone this repository.
 
-Run cells sequentially from top to bottom
+2. Open 02_Lists_&_Loops.ipynb in Google Colab or Jupyter Notebook.
 
-Try modifying the marks list with your own data
+3. Run cells sequentially from top to bottom.
 
-🌍 Real-World Applications
-Data science – processing datasets
+4.Try modifying the marks list with your own data to test different scenarios.
 
-Cybersecurity – analyzing log files
+🌍 Applications
+- Data Science – processing datasets
 
-AI – iterating over training data
+- Cybersecurity – analyzing log files
 
-Web apps – handling user records
+- AI/ML – iterating over training data
 
-Loan approval systems – nested condition checks
+- Web Apps – handling user records
 
-📁 Files
-02_Lists_&_Loops.ipynb – Complete Jupyter notebook with all examples
+- Loan Approval Systems – nested condition checks
 
-README.md – This file
+📌 Project Files
+- 02_Lists_&_Loops.ipynb – Complete Jupyter notebook with all examples
 
-Part of my Python learning journey – exploring fundamentals with practical examples.
+- README.md – This documentation file
