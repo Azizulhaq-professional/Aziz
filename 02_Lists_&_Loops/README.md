@@ -40,13 +40,13 @@ print(f"Average: {average}, Passed: {passed}, Failed: {failed}")
 Expected Output:
 Average: 72.5, Passed: 3, Failed: 1
 
-⚙️ How to Run
+## ⚙️ How to Run
 1. Clone this repository.
 2. Open 02_Lists_&_Loops.ipynb in Google Colab or Jupyter Notebook.
 3. Run cells sequentially from top to bottom.
 4.Try modifying the marks list with your own data to test different scenarios.
 
-🌍 Applications
+## 🌍 Applications
 • Data Science – processing datasets
 • Cybersecurity – analyzing log files
 • AI/ML – iterating over training data
@@ -54,6 +54,6 @@ Average: 72.5, Passed: 3, Failed: 1
 
 - Loan Approval Systems – nested condition checks
 
-📌 Project Files
+## 📌 Project Files
 • 02_Lists_&_Loops.ipynb – Complete Jupyter notebook with all examples
 • README.md – This documentation file
