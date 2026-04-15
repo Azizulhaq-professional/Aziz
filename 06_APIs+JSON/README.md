@@ -27,8 +27,7 @@ Features
 - Read and display student data from JSON
 - Handle invalid input and missing files gracefully
 
-Example Run
-
+## Example Run
 📚 Student API Simulator
 
 Enter student name: Ali
