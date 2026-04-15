@@ -28,6 +28,7 @@ Features
 - Handle invalid input and missing files gracefully
 
 Example Run
+
 📚 Student API Simulator
 
 Enter student name: Ali
@@ -51,7 +52,7 @@ Student 2:
 Name: Nasir
 Marks: 90.0
 City: Rawalpindi
-⚙️ How to Run
+# ⚙️ How to Run
 Clone this repository:
 1. git clone https://github.com/Azizulhaq-professional/Aziz.git
 2. Open 06_APIs+JSON.ipynb in Google Colab or Jupyter Notebook.
