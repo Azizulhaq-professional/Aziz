@@ -1,4 +1,4 @@
-# 📊 Smart Sales Analysis Dashboard – Final Mini Project
+# 📊 AI-Driven Sales Analysis & Dashboard System– Final Mini Project
 
 This notebook demonstrates how to build a **complete advanced sales dashboard system** using Pandas and Matplotlib.  
 It integrates **data cleaning, analysis, visualization, and smart insights** into one structured workflow, simulating a real industry project.
