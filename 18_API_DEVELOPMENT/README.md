@@ -81,6 +81,17 @@ Response:
 ```
 ## 📸 Screenshots (Project Results)
 
+- [Basic Flask App](https://github.com/Azizulhaq-professional/Aziz/blob/main/18_API_DEVELOPMENT/screenshots/Basic_Flask_App.JPG)  
+- [Database Connection](https://github.com/Azizulhaq-professional/Aziz/blob/main/18_API_DEVELOPMENT/screenshots/Connect_Database.JPG)  
+- [Create Insert Table](https://github.com/Azizulhaq-professional/Aziz/blob/main/18_API_DEVELOPMENT/screenshots/Create_insert_table.JPG)  
+- [Sales API Endpoint](https://github.com/Azizulhaq-professional/Aziz/blob/main/18_API_DEVELOPMENT/screenshots/API_end_point.JPG)  
+- [Filter Sales (City)](https://github.com/Azizulhaq-professional/Aziz/blob/main/18_API_DEVELOPMENT/screenshots/sales.JPG)  
+- [Add New Order](https://github.com/Azizulhaq-professional/Aziz/blob/main/18_API_DEVELOPMENT/screenshots/Add_New_Order.JPG)  
+- [Message Successful](https://github.com/Azizulhaq-professional/Aziz/blob/main/18_API_DEVELOPMENT/screenshots/message_successful.JPG)  
+- [Final Result](https://github.com/Azizulhaq-professional/Aziz/blob/main/18_API_DEVELOPMENT/screenshots/Final_Result.JPG)  
+- [Welcome Screen](https://github.com/Azizulhaq-professional/Aziz/blob/main/18_API_DEVELOPMENT/screenshots/Welcome_to_Sales_API.JPG)
+
+
 ## 📖 Conclusion
 This project provides a beginner-friendly introduction to API development with Flask.
 The linked screenshots illustrate each stage of the API in action, from setup to data retrieval and order insertion.
