@@ -83,7 +83,7 @@ Best Selling Product: Mobile
 1. Clone this repository:
    ```bash
    git clone https://github.com/Azizulhaq-professional/Aziz.git
-2. Open 13_Advanced_Sales_Dashboard_System.ipynb in Google Colab or Jupyter Notebook.
+2. Open 13_Advanced_Sales_Dashboard_System.ipynb , Smart_sales_analysis_project.ipynb in Google Colab or Jupyter Notebook.
 3. Upload your dataset (sales.csv).
 4. Run cells sequentially from top to bottom.
 5. Observe how the system loads, cleans, analyzes, visualizes, and generates smart insights automatically.
