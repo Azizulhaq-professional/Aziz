@@ -2,6 +2,15 @@
 
 This notebook demonstrates how to build a **complete advanced sales dashboard system** using Pandas and Matplotlib.  
 It integrates **data cleaning, analysis, visualization, and smart insights** into one structured workflow, simulating a real industry project.
+---
+
+## 🔗 Project Notebooks (Click to View)
+
+👉 📘 **Advanced Sales Dashboard System**  
+https://github.com/Azizulhaq-professional/Aziz/blob/main/13_FINAL_MINI_PROJECT/13_Advanced_Sales_Dashboard_System.ipynb
+
+👉 📗 **Smart Sales Analysis Project**  
+https://github.com/Azizulhaq-professional/Aziz/blob/main/13_FINAL_MINI_PROJECT/Smart_sales_analysis_project.ipynb
 
 ---
 
