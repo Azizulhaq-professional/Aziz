@@ -54,6 +54,7 @@ Welcome to Sales API
 GET /sales
 ```
 Returns all sales records with customer, product, quantity, and total.
+
 3. Filter Sales by City
 ```
 GET /sales/<city>
@@ -61,6 +62,7 @@ GET /sales/<city>
 Filters sales data by customer city.
 
 Example: http://127.0.0.1:5000/sales/Lahore
+
 4. Add New Order
 ```
 POST /add_order
