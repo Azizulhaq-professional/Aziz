@@ -80,3 +80,4 @@ It covers database creation, data insertion, querying, filtering, aggregation, a
 ## 📂 File Included
 - `14_SQL.ipynb` → Notebook with full SQL + Python workflow
 
+🚀 I, Aziz Ul Haq, am actively learning, building, and sharing — turning my skills in Python, AI, Data Science, and Cybersecurity into a professional portfolio.
