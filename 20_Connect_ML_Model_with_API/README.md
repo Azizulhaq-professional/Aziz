@@ -63,9 +63,6 @@ python train_model.py
 python app.py
 python test_api.py
 ```
-### 🎯 Key Learning Outcomes
-- How to train and serialize ML models with scikit-learn.
-- How to build REST APIs with Flask.
-- How to integrate ML models into production-ready APIs.
-- How to test APIs using Postman and Python scripts.
--How to connect APIs with a frontend (HTML form).
+I am **Aziz**, a passionate learner and developer focused on **Machine Learning, Data Science, and API Development**.  
+My journey includes building end-to-end projects that integrate ML models with real-world applications, documenting workflows with clarity, and sharing reproducible code for recruiters and collaborators.  
+Through these projects, I aim to demonstrate not only technical skills but also the ability to communicate solutions professionally and effectively.
