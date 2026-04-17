@@ -77,3 +77,5 @@ Response:
 - How to send JSON data to an API
 - Using Flask to build APIs
 - Testing APIs with Postman and Python requests
+
+  I am **Aziz**, a passionate learner and developer focused on **Machine Learning, Data Science, and API Development**.
