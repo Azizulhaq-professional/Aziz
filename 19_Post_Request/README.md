@@ -40,7 +40,7 @@ Server runs at: http://127.0.0.1:5000/
 ```
 pip install requests
 ```
-4.Run the client:
+4. Run the client:
 ```
 python test_client.py
 ```
@@ -60,7 +60,17 @@ Response:
   "message": "Hello Aziz, you are 23 years old"
 }
 ```
-## 📸 Screenshots
+## ## 📸 Screenshots
+
+- [App.py Code](https://github.com/Azizulhaq-professional/Aziz/blob/main/19_Post_Request/screenshots/app_py.JPG)  
+- [Python App Running](https://github.com/Azizulhaq-professional/Aziz/blob/main/19_Post_Request/screenshots/python_app_py.JPG)  
+- [Flask Installation](https://github.com/Azizulhaq-professional/Aziz/blob/main/19_Post_Request/screenshots/pip_install_flask.JPG)  
+- [Sales API Welcome Screen](https://github.com/Azizulhaq-professional/Aziz/blob/main/19_Post_Request/screenshots/Sales_Api_Welcome.JPG)  
+- [Postman Request Setup](https://github.com/Azizulhaq-professional/Aziz/blob/main/19_Post_Request/screenshots/Postman.JPG)  
+- [Postman Request Body](https://github.com/Azizulhaq-professional/Aziz/blob/main/19_Post_Request/screenshots/Postman1.JPG)  
+- [Postman Workspace](https://github.com/Azizulhaq-professional/Aziz/blob/main/19_Post_Request/screenshots/Postmanworkspace.JPG)  
+- [Test Client Code](https://github.com/Azizulhaq-professional/Aziz/blob/main/19_Post_Request/screenshots/test_client_py.JPG)  
+- [Test Client Terminal Result](https://github.com/Azizulhaq-professional/Aziz/blob/main/19_Post_Request/screenshots/test_client_py_terminal_result.JPG)  
 
 ## 📖 Learning Outcomes
 - Difference between GET and POST
