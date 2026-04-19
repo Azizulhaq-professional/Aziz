@@ -23,7 +23,27 @@ This repo serves as both a portfolio and a journal of my professional journey to
 - **Professional Documentation** – recruiter‑friendly READMEs and project notes  
 
 ---
-
+## 📂 Folder Structure
+### 📁 01_One_month_training_programs
+- Python fundamentals (loops, functions, dictionaries)
+- File handling & basic projects
+- Introduction to APIs & JSON
+- Pandas and data analysis basics
+### 📁 02_Second_month_training_programs
+- Data cleaning & preprocessing
+- Advanced data analysis
+- Sales data analysis system
+- Data visualization techniques
+### 📁 03_Third_month_training_programs
+- SQL fundamentals
+- Advanced queries & joins
+- Real database projects
+- SQL + Python integration
+### 📁 04_Fourth_month_training_programs
+- API development using Flask
+- Handling POST requests
+- Connecting Machine Learning models with APIs
+- Classification Machine Learning projects
 ## ⚙️ How to Run
 1. Clone this repository:
    ```bash
