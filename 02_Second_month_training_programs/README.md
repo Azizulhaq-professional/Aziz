@@ -29,7 +29,6 @@ This repository documents my complete 30-day journey of learning Data Analysis, 
 - Model deployment
 - Database integration
 - Cloud deployment
-- Resume building & interview preparation
 
 ---
 
